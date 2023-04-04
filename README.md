@@ -1,0 +1,1 @@
+NBA data science project utilizing k-means clustering & classification to redefine NBA positions and to reevaluate 2021 NBA ALL-STAR alternatives. Utilized api from NBA.com in the form of JSON to create dataset. On the side, I practiced webscraping from hoopshype.com to create a more customized data set (not used in classification & clustering). 
